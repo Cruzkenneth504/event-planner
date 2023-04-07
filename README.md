@@ -3,7 +3,8 @@
 
 ## **Description**
 
-* This project aimed to use the library of [Bootstrap](https://getbootstrap.com/) to manipulate HTML CSS content And the library of [JQuery](https://learn.jquery.com/) to manioulate javascript content. 
+* This project aimed to use the library of [Bootstrap](https://getbootstrap.com/) to manipulate HTML CSS content And the library of [JQuery](https://learn.jquery.com/) to manioulate javascript content. This website serves the purpose of helpt the user keep track of planned events. Future events will show the color green. Present events will show  color red. Past events will show color gray.
+All events will be saved inside the local storage and can be cleared by simply deleting the event row and saving it again.
 
 
 ## **Code Learning Points**
@@ -39,6 +40,8 @@ $(document).ready(function () {
 | CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git | [https://git-scm.com/](https://git-scm.com/)     |    
 | Js  | [https://developer.mozilla.org/en-US/docs/Web/JavaScript]  | 
+ |  JQuery |[ttps://learn.jquery.com/](ttps://learn.jquery.com/)     | 
+  |  Bootstrap  | [https://getbootstrap.com/](https://getbootstrap.com/)  | 
 
 ## **Prerequisites**
 
