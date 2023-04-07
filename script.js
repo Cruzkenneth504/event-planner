@@ -2,7 +2,8 @@
 $(document).ready(function () {
   //#ID has properly been added to HTML file to set date format//
   //.Claas Event listener has been added//
-  $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a")); 
+  $("#currentDay").html(moment().format("MMMM Do YYYY")); 
+
   $(".saveBtn").on("click", function () {
     
       console.log(this);
