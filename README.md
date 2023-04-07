@@ -7,10 +7,10 @@
 All events will be saved inside the local storage and can be cleared by simply deleting the event row and saving it again.
 
 
-* Documentation
+* ### Learn About
 
-[Documentation JQuery](https://getbootstrap.com/docs/5.3/customize/overview/)
-[Documentation Bootstrap](https://api.jquery.com/)
+* [Documentation JQuery](https://getbootstrap.com/docs/5.3/customize/overview/)
+* [Documentation Bootstrap](https://api.jquery.com/)
 
 
 ## **Code Learning Points**
@@ -80,7 +80,7 @@ $(document).ready(function () {
 
 * Click the image below 
 
-[![Image](./assets/imgs/screen1.png)](https://cruzkenneth504.github.io/event-planner/)
+[![Image](./imgs/visual.png)](https://cruzkenneth504.github.io/event-planner/)
 
 
 ## **Author**
@@ -106,8 +106,3 @@ This project is licensed under the MIT License
 * [Jquery](https://cssgradient.io/)
 
 
-## **Test 1**
-<!---Unable to provide video testing due to computer version not meeting the github large files standards --->
-![Site test test 1](./assets/imgs/screen3.png)
-## **Test 2**
-![Site test test 2](./assets/imgs/screen4.png)
