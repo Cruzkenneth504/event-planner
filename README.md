@@ -7,6 +7,12 @@
 All events will be saved inside the local storage and can be cleared by simply deleting the event row and saving it again.
 
 
+* Documentation
+
+[Documentation JQuery](https://getbootstrap.com/docs/5.3/customize/overview/)
+[Documentation Bootstrap](https://api.jquery.com/)
+
+
 ## **Code Learning Points**
 
 - * Learning point comments have been added to javascrip documents. Example below:  
@@ -59,7 +65,7 @@ $(document).ready(function () {
 
 **Click the link below:** 
 
-[Link to Website](https://cruzkenneth504.github.io/code-quiz/)
+[Link to Website](https://cruzkenneth504.github.io/event-planner/)
 
 ## **Built With**
 
@@ -67,13 +73,14 @@ $(document).ready(function () {
 * [HTML W3](https://www.w3schools.com/html/default.asp)   
 * [CSS Dev](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [CSS W3](https://www.w3schools.com/css/default.asp)
-* [Flexiple](https://flexiple.com/javascript/javascript-clock/)
+* [Jquery](https://learn.jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## **Visual**
 
 * Click the image below 
 
-[![Image](./assets/imgs/screen1.png)](https://cruzkenneth504.github.io/code-quiz/)
+[![Image](./assets/imgs/screen1.png)](https://cruzkenneth504.github.io/event-planner/)
 
 
 ## **Author**
@@ -81,8 +88,8 @@ $(document).ready(function () {
 * **Kenneth Cruz** 
 
 
-- [Link to Code Quiz Site](https://github.com/Cruzkenneth504.io/code-quiz)
-- [Link to Github Repo](https://cruzkenneth504.github/code-quiz/)
+- [Link to Code Quiz Site](https://github.com/Cruzkenneth504.io/event-planner)
+- [Link to Github Repo](https://github.com/Cruzkenneth504/event-planner)
 - [Link to Github](https://github.com/cruzkenneth504)
 - [Link to LinkedIn](linkedin.com/in/cruzkenneth504)
 
@@ -96,9 +103,8 @@ This project is licensed under the MIT License
 * [UCB BootCamp](https://bootcamp.berkeley.edu/)
 * [DevTools](https://dev.to/)
 * [Youtube](https://www.youtube.com/)
-* [CssGradient](https://cssgradient.io/)
-* [CssTricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [MozzilaBoxShadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+* [Jquery](https://cssgradient.io/)
+
 
 ## **Test 1**
 <!---Unable to provide video testing due to computer version not meeting the github large files standards --->
