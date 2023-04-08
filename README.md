@@ -3,8 +3,8 @@
 
 ## **Description**
 
-* This project aimed to use the library of [Bootstrap](https://getbootstrap.com/) to manipulate HTML CSS content And the library of [JQuery](https://learn.jquery.com/) to manioulate javascript content. This website serves the purpose of helpt the user keep track of planned events. Future events will show the color green. Present events will show  color red. Past events will show color gray.
-All events will be saved inside the local storage and can be cleared by simply deleting the event row and saving it again.
+* This project aimed to use the library of [Bootstrap](https://getbootstrap.com/) to manipulate HTML CSS content, and [JQuery](https://learn.jquery.com/) to manipulate javascript content. This website serves the purpose to helpvthe user keep track of schedule planned events. Future events will show the color green. Present events will show  color red. Past events will show color gray.
+All events will be saved inside the local storage and can be cleared by simply deleting the typed event row and saving it again.
 
 
 * ### Learn About
