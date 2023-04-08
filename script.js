@@ -1,14 +1,14 @@
 //$(document).ready(function () {}; allows us to invoke DOM manipulation//
 $(document).ready(function () {
   //#ID has properly been added to HTML file to set date format//
-  //.Claas Event listener has been added//
-  $("#currentDay").html(moment().format("MMMM Do YYYY")); 
 
+  $("#currentDay").html(moment().format("MMMM Do YYYY")); 
+  //.Claas Event ('.on') listener has been added//
   $(".saveBtn").on("click", function () {
     
       console.log(this);
-      var text = $(this).siblings(".description").val();//links to html sheet //
-      var time = $(this).parent().attr("id");//links to changes inside style sheet// 
+      var text = $(this).siblings(".description").val();
+      var time = $(this).parent().attr("id");
      
       localStorage.setItem(time, text);//local storage will save event moments// 
       

@@ -103,6 +103,6 @@ This project is licensed under the MIT License
 * [UCB BootCamp](https://bootcamp.berkeley.edu/)
 * [DevTools](https://dev.to/)
 * [Youtube](https://www.youtube.com/)
-* [Jquery](https://cssgradient.io/)
-
+* [Jquery](https://learn.jquery.com/)
+* [Bootstrap](https://getbootstrap.com/) 
 
